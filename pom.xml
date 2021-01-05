@@ -78,7 +78,14 @@
       <version>6.1.6.Final</version>
     </dependency>
 
-<!--    <dependency>-->
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.2.18</version>
+    </dependency>
+
+
+    <!--    <dependency>-->
 <!--      <groupId>javax.el</groupId>-->
 <!--      <artifactId>javax.el-api</artifactId>-->
 <!--      <version>3.0.0</version>-->
